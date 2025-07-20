@@ -1,0 +1,98 @@
+[
+  {
+    "id": "4441e937-e287-489b-8fdf-29a5b9d94678",
+    "user_id": "default_user",
+    "name": "TRIDENT SPACE KO",
+    "date": "2025-06-19T07:13:56.869605",
+    "buy_in": 1.8,
+    "fee": 0.2,
+    "total_players": 100,
+    "final_position": 1,
+    "profit_loss": 0.0,
+    "created_at": "2025-06-19T07:13:56.876223"
+  },
+  {
+    "id": "29680759-9658-4659-8da7-af768e4e0c72",
+    "user_id": "default_user",
+    "name": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 38 - HandId: #4043293950600019969-375-1750000113 - Holdem no limit (1600/7000/14000) - 2025/06/15 15:08:33 UTC",
+    "date": "2025-06-19T07:37:56.683766",
+    "buy_in": 0.0,
+    "fee": 0.0,
+    "total_players": 0,
+    "final_position": 0,
+    "profit_loss": 0.0,
+    "created_at": "2025-06-19T07:37:56.691405"
+  },
+  {
+    "id": "53f6fad4-fead-4b09-b7a5-5ca6d146cb92",
+    "user_id": "default_user",
+    "name": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 38 - HandId: #4043293950600019969-375-1750000113 - Holdem no limit (1600/7000/14000) - 2025/06/15 15:08:33 UTC",
+    "date": "2025-06-19T07:39:39.846557",
+    "buy_in": 0.0,
+    "fee": 0.0,
+    "total_players": 0,
+    "final_position": 0,
+    "profit_loss": 0.0,
+    "created_at": "2025-06-19T07:39:39.854213"
+  },
+  {
+    "id": "a6be13cd-ad04-46b1-b3b3-19613711648a",
+    "user_id": "default_user",
+    "name": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 38 - HandId: #4043293950600019969-375-1750000113 - Holdem no limit (1600/7000/14000) - 2025/06/15 15:08:33 UTC",
+    "date": "2025-06-19T07:42:57.386843",
+    "buy_in": 0.0,
+    "fee": 0.0,
+    "total_players": 0,
+    "final_position": 0,
+    "profit_loss": 0.0,
+    "created_at": "2025-06-19T07:42:57.396608"
+  },
+  {
+    "id": "16d59b61-7d58-4c11-a8c8-3860492450b4",
+    "user_id": "default_user",
+    "name": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 38 - HandId: #4043293950600019969-375-1750000113 - Holdem no limit (1600/7000/14000) - 2025/06/15 15:08:33 UTC",
+    "date": "2025-06-19T07:47:38.283572",
+    "buy_in": 0.0,
+    "fee": 0.0,
+    "total_players": 0,
+    "final_position": 0,
+    "profit_loss": 0.0,
+    "created_at": "2025-06-19T07:47:38.291947"
+  },
+  {
+    "id": "88431154-0040-418f-b968-980b3ae9e123",
+    "user_id": "default_user",
+    "name": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 38 - HandId: #4043293950600019969-375-1750000113 - Holdem no limit (1600/7000/14000) - 2025/06/15 15:08:33 UTC",
+    "date": "2025-06-19T07:48:31.276576",
+    "buy_in": 0.0,
+    "fee": 0.0,
+    "total_players": 0,
+    "final_position": 0,
+    "profit_loss": 0.0,
+    "created_at": "2025-06-19T07:48:31.293255"
+  },
+  {
+    "id": "43ebe79f-4321-4893-8f11-ce3cc5459084",
+    "user_id": "default_user",
+    "name": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 38 - HandId: #4043293950600019969-375-1750000113 - Holdem no limit (1600/7000/14000) - 2025/06/15 15:08:33 UTC",
+    "date": "2025-06-19T07:50:15.012384",
+    "buy_in": 0.0,
+    "fee": 0.0,
+    "total_players": 0,
+    "final_position": 0,
+    "profit_loss": 0.0,
+    "created_at": "2025-06-19T07:50:15.021626"
+  },
+  {
+    "id": "69fd230d-5b3f-40ba-8d05-41aff0bd5e10",
+    "user_id": "default_user",
+    "name": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 38 - HandId: #4043293950600019969-375-1750000113 - Holdem no limit (1600/7000/14000) - 2025/06/15 15:08:33 UTC",
+    "date": "2025-06-19T07:51:38.719825",
+    "buy_in": 0.0,
+    "fee": 0.0,
+    "total_players": 0,
+    "final_position": 0,
+    "profit_loss": 0.0,
+    "created_at": "2025-06-19T07:51:38.727431"
+  }
+]

@@ -1,0 +1,2061 @@
+[
+  {
+    "id": "1ad53072-b14a-4ed9-b24f-1732a0bb52a0",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-55-1752399373",
+    "hand_number": 2,
+    "level": 6,
+    "blinds": "25/50",
+    "ante": 6,
+    "small_blind": 25,
+    "big_blind": 50,
+    "date": "2025-07-13T09:36:13",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 1,
+    "players": [
+      {
+        "name": "Ludal001",
+        "seat": 1,
+        "stack": 1329,
+        "bounty": 1.4
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 883,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 500,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BB",
+    "hole_cards": "4h 3c",
+    "ante_blinds_actions": [
+      "audric54460 posts ante 6",
+      "ZERO_TALENT posts ante 6",
+      "Ludal001 posts ante 6",
+      "audric54460 posts small blind 25",
+      "ZERO_TALENT posts big blind 50"
+    ],
+    "preflop_actions": [
+      "Ludal001 raises 50 to 100",
+      "audric54460 raises 777 to 877 and is all-in",
+      "ZERO_TALENT folds",
+      "Ludal001 folds",
+      "audric54460 collected 1045 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 1045 | No rake",
+      "Seat 2: audric54460 (small blind) won 1045"
+    ],
+    "pot_size": 1045,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4089717826900721702-55-1752399373 - Holdem no limit (6/25/50) - 2025/07/13 09:36:13 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #1 is the button\nSeat 1: Ludal001 (1329, 1.40€ bounty)\nSeat 2: audric54460 (883, 1€ bounty)\nSeat 3: ZERO_TALENT (500, 1€ bounty)\n*** ANTE/BLINDS ***\naudric54460 posts ante 6\nZERO_TALENT posts ante 6\nLudal001 posts ante 6\naudric54460 posts small blind 25\nZERO_TALENT posts big blind 50\nDealt to ZERO_TALENT [4h 3c]\n*** PRE-FLOP *** \nLudal001 raises 50 to 100\naudric54460 raises 777 to 877 and is all-in\nZERO_TALENT folds\nLudal001 folds\naudric54460 collected 1045 from pot\n*** SUMMARY ***\nTotal pot 1045 | No rake\nSeat 2: audric54460 (small blind) won 1045\n\n\n"
+  },
+  {
+    "id": "f198a9a1-abb9-4ba7-9c39-b6567386afcf",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-56-1752399384",
+    "hand_number": 3,
+    "level": 6,
+    "blinds": "25/50",
+    "ante": 6,
+    "small_blind": 25,
+    "big_blind": 50,
+    "date": "2025-07-13T09:36:24",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 3,
+    "players": [
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 1045,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 444,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BTN",
+    "hole_cards": "Ah 5s",
+    "ante_blinds_actions": [
+      "ZERO_TALENT posts ante 6",
+      "audric54460 posts ante 6",
+      "ZERO_TALENT posts small blind 25",
+      "audric54460 posts big blind 50"
+    ],
+    "preflop_actions": [
+      "ZERO_TALENT raises 388 to 438 and is all-in",
+      "audric54460 folds",
+      "ZERO_TALENT collected 500 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 500 | No rake",
+      "Seat 3: ZERO_TALENT (small blind) (button) won 500"
+    ],
+    "pot_size": 500,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4089717826900721702-56-1752399384 - Holdem no limit (6/25/50) - 2025/07/13 09:36:24 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #3 is the button\nSeat 2: audric54460 (1045, 1€ bounty)\nSeat 3: ZERO_TALENT (444, 1€ bounty)\n*** ANTE/BLINDS ***\nZERO_TALENT posts ante 6\naudric54460 posts ante 6\nZERO_TALENT posts small blind 25\naudric54460 posts big blind 50\nDealt to ZERO_TALENT [Ah 5s]\n*** PRE-FLOP *** \nZERO_TALENT raises 388 to 438 and is all-in\naudric54460 folds\nZERO_TALENT collected 500 from pot\n*** SUMMARY ***\nTotal pot 500 | No rake\nSeat 3: ZERO_TALENT (small blind) (button) won 500\n\n\n"
+  },
+  {
+    "id": "4aa3d372-24d8-4b6c-943a-1825dcee74c8",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-57-1752399391",
+    "hand_number": 4,
+    "level": 6,
+    "blinds": "25/50",
+    "ante": 6,
+    "small_blind": 25,
+    "big_blind": 50,
+    "date": "2025-07-13T09:36:31",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 2,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 500,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 989,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 500,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "SB",
+    "hole_cards": "7d 7c",
+    "ante_blinds_actions": [
+      "audric54460 posts ante 6",
+      "ZERO_TALENT posts ante 6",
+      "audric54460 posts small blind 25",
+      "ZERO_TALENT posts big blind 50"
+    ],
+    "preflop_actions": [
+      "audric54460 folds",
+      "ZERO_TALENT collected 87 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 87 | No rake",
+      "Seat 3: ZERO_TALENT (big blind) won 87"
+    ],
+    "pot_size": 87,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4089717826900721702-57-1752399391 - Holdem no limit (6/25/50) - 2025/07/13 09:36:31 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #2 is the button\nSeat 1: Gardelini33 (500, 1€ bounty)\nSeat 2: audric54460 (989, 1€ bounty)\nSeat 3: ZERO_TALENT (500, 1€ bounty)\n*** ANTE/BLINDS ***\naudric54460 posts ante 6\nZERO_TALENT posts ante 6\naudric54460 posts small blind 25\nZERO_TALENT posts big blind 50\nDealt to ZERO_TALENT [7d 7c]\n*** PRE-FLOP *** \naudric54460 folds\nZERO_TALENT collected 87 from pot\n*** SUMMARY ***\nTotal pot 87 | No rake\nSeat 3: ZERO_TALENT (big blind) won 87\n\n\n"
+  },
+  {
+    "id": "06a5d225-962f-45f9-8d3d-1f4f80462b12",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-58-1752399396",
+    "hand_number": 5,
+    "level": 6,
+    "blinds": "25/50",
+    "ante": 6,
+    "small_blind": 25,
+    "big_blind": 50,
+    "date": "2025-07-13T09:36:36",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 2,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 500,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 958,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 531,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "SB",
+    "hole_cards": "3d Jc",
+    "ante_blinds_actions": [
+      "ZERO_TALENT posts ante 6",
+      "Gardelini33 posts ante 6",
+      "audric54460 posts ante 6",
+      "ZERO_TALENT posts small blind 25",
+      "Gardelini33 posts big blind 50"
+    ],
+    "preflop_actions": [
+      "audric54460 raises 50 to 100",
+      "ZERO_TALENT folds",
+      "Gardelini33 folds",
+      "audric54460 collected 193 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 193 | No rake",
+      "Seat 2: audric54460 (button) won 193"
+    ],
+    "pot_size": 193,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4089717826900721702-58-1752399396 - Holdem no limit (6/25/50) - 2025/07/13 09:36:36 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #2 is the button\nSeat 1: Gardelini33 (500, 1€ bounty)\nSeat 2: audric54460 (958, 1€ bounty)\nSeat 3: ZERO_TALENT (531, 1€ bounty)\n*** ANTE/BLINDS ***\nZERO_TALENT posts ante 6\nGardelini33 posts ante 6\naudric54460 posts ante 6\nZERO_TALENT posts small blind 25\nGardelini33 posts big blind 50\nDealt to ZERO_TALENT [3d Jc]\n*** PRE-FLOP *** \naudric54460 raises 50 to 100\nZERO_TALENT folds\nGardelini33 folds\naudric54460 collected 193 from pot\n*** SUMMARY ***\nTotal pot 193 | No rake\nSeat 2: audric54460 (button) won 193\n\n\n"
+  },
+  {
+    "id": "77db6636-c997-4467-936a-0a25202b3e2f",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-59-1752399402",
+    "hand_number": 6,
+    "level": 6,
+    "blinds": "25/50",
+    "ante": 6,
+    "small_blind": 25,
+    "big_blind": 50,
+    "date": "2025-07-13T09:36:42",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 3,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 444,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 1045,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 500,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BTN",
+    "hole_cards": "5c Ts",
+    "ante_blinds_actions": [
+      "Gardelini33 posts ante 6",
+      "audric54460 posts ante 6",
+      "ZERO_TALENT posts ante 6",
+      "Gardelini33 posts small blind 25",
+      "audric54460 posts big blind 50"
+    ],
+    "preflop_actions": [
+      "ZERO_TALENT folds",
+      "Gardelini33 calls 25",
+      "audric54460 checks"
+    ],
+    "flop": "9s 2h 8c",
+    "flop_actions": [
+      "Gardelini33 checks",
+      "audric54460 checks"
+    ],
+    "turn": "Jd",
+    "turn_actions": [
+      "Gardelini33 bets 388 and is all-in",
+      "audric54460 calls 388"
+    ],
+    "river": "Qc",
+    "river_actions": [],
+    "showdown": [
+      "Gardelini33 shows [5s Js] (One pair : Jacks)",
+      "audric54460 shows [7c Jh] (One pair : Jacks)",
+      "audric54460 collected 447 from pot",
+      "Gardelini33 collected 447 from pot"
+    ],
+    "summary": [
+      "Total pot 894 | No rake",
+      "Board: [9s 2h 8c Jd Qc]",
+      "Seat 1: Gardelini33 (small blind) showed [5s Js] and won 447 with One pair : Jacks",
+      "Seat 2: audric54460 (big blind) showed [7c Jh] and won 447 with One pair : Jacks"
+    ],
+    "pot_size": 894,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4089717826900721702-59-1752399402 - Holdem no limit (6/25/50) - 2025/07/13 09:36:42 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #3 is the button\nSeat 1: Gardelini33 (444, 1€ bounty)\nSeat 2: audric54460 (1045, 1€ bounty)\nSeat 3: ZERO_TALENT (500, 1€ bounty)\n*** ANTE/BLINDS ***\nGardelini33 posts ante 6\naudric54460 posts ante 6\nZERO_TALENT posts ante 6\nGardelini33 posts small blind 25\naudric54460 posts big blind 50\nDealt to ZERO_TALENT [5c Ts]\n*** PRE-FLOP *** \nZERO_TALENT folds\nGardelini33 calls 25\naudric54460 checks\n*** FLOP *** [9s 2h 8c]\nGardelini33 checks\naudric54460 checks\n*** TURN *** [9s 2h 8c][Jd]\nGardelini33 bets 388 and is all-in\naudric54460 calls 388\n*** RIVER *** [9s 2h 8c Jd][Qc]\n*** SHOW DOWN ***\nGardelini33 shows [5s Js] (One pair : Jacks)\naudric54460 shows [7c Jh] (One pair : Jacks)\naudric54460 collected 447 from pot\nGardelini33 collected 447 from pot\n*** SUMMARY ***\nTotal pot 894 | No rake\nBoard: [9s 2h 8c Jd Qc]\nSeat 1: Gardelini33 (small blind) showed [5s Js] and won 447 with One pair : Jacks\nSeat 2: audric54460 (big blind) showed [7c Jh] and won 447 with One pair : Jacks\n\n\n"
+  },
+  {
+    "id": "ee3a4da5-9761-4605-bae7-d005b602342a",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-60-1752399421",
+    "hand_number": 7,
+    "level": 6,
+    "blinds": "25/50",
+    "ante": 6,
+    "small_blind": 25,
+    "big_blind": 50,
+    "date": "2025-07-13T09:37:01",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 1,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 447,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 1048,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 494,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BB",
+    "hole_cards": "9s 6s",
+    "ante_blinds_actions": [
+      "audric54460 posts ante 6",
+      "ZERO_TALENT posts ante 6",
+      "Gardelini33 posts ante 6",
+      "audric54460 posts small blind 25",
+      "ZERO_TALENT posts big blind 50"
+    ],
+    "preflop_actions": [
+      "Gardelini33 folds",
+      "audric54460 folds",
+      "ZERO_TALENT collected 93 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 93 | No rake",
+      "Seat 3: ZERO_TALENT (big blind) won 93"
+    ],
+    "pot_size": 93,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4089717826900721702-60-1752399421 - Holdem no limit (6/25/50) - 2025/07/13 09:37:01 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #1 is the button\nSeat 1: Gardelini33 (447, 1€ bounty)\nSeat 2: audric54460 (1048, 1€ bounty)\nSeat 3: ZERO_TALENT (494, 1€ bounty)\n*** ANTE/BLINDS ***\naudric54460 posts ante 6\nZERO_TALENT posts ante 6\nGardelini33 posts ante 6\naudric54460 posts small blind 25\nZERO_TALENT posts big blind 50\nDealt to ZERO_TALENT [9s 6s]\n*** PRE-FLOP *** \nGardelini33 folds\naudric54460 folds\nZERO_TALENT collected 93 from pot\n*** SUMMARY ***\nTotal pot 93 | No rake\nSeat 3: ZERO_TALENT (big blind) won 93\n\n\n"
+  },
+  {
+    "id": "70831ce5-d649-4bd4-bac7-6e3658fc2038",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-61-1752399426",
+    "hand_number": 8,
+    "level": 6,
+    "blinds": "25/50",
+    "ante": 6,
+    "small_blind": 25,
+    "big_blind": 50,
+    "date": "2025-07-13T09:37:06",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 2,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 441,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 1017,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 531,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "SB",
+    "hole_cards": "6d 9h",
+    "ante_blinds_actions": [
+      "ZERO_TALENT posts ante 6",
+      "Gardelini33 posts ante 6",
+      "audric54460 posts ante 6",
+      "ZERO_TALENT posts small blind 25",
+      "Gardelini33 posts big blind 50"
+    ],
+    "preflop_actions": [
+      "audric54460 folds",
+      "ZERO_TALENT folds",
+      "Gardelini33 collected 93 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 93 | No rake",
+      "Seat 1: Gardelini33 (big blind) won 93"
+    ],
+    "pot_size": 93,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4089717826900721702-61-1752399426 - Holdem no limit (6/25/50) - 2025/07/13 09:37:06 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #2 is the button\nSeat 1: Gardelini33 (441, 1€ bounty)\nSeat 2: audric54460 (1017, 1€ bounty)\nSeat 3: ZERO_TALENT (531, 1€ bounty)\n*** ANTE/BLINDS ***\nZERO_TALENT posts ante 6\nGardelini33 posts ante 6\naudric54460 posts ante 6\nZERO_TALENT posts small blind 25\nGardelini33 posts big blind 50\nDealt to ZERO_TALENT [6d 9h]\n*** PRE-FLOP *** \naudric54460 folds\nZERO_TALENT folds\nGardelini33 collected 93 from pot\n*** SUMMARY ***\nTotal pot 93 | No rake\nSeat 1: Gardelini33 (big blind) won 93\n\n\n"
+  },
+  {
+    "id": "959a42cb-bbb5-40de-bcda-bf39f6a25bca",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-62-1752399434",
+    "hand_number": 9,
+    "level": 6,
+    "blinds": "25/50",
+    "ante": 6,
+    "small_blind": 25,
+    "big_blind": 50,
+    "date": "2025-07-13T09:37:14",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 3,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 478,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 1011,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 500,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BTN",
+    "hole_cards": "8s 5s",
+    "ante_blinds_actions": [
+      "Gardelini33 posts ante 6",
+      "audric54460 posts ante 6",
+      "ZERO_TALENT posts ante 6",
+      "Gardelini33 posts small blind 25",
+      "audric54460 posts big blind 50"
+    ],
+    "preflop_actions": [
+      "ZERO_TALENT folds",
+      "Gardelini33 calls 25",
+      "audric54460 checks"
+    ],
+    "flop": "2s 7s Th",
+    "flop_actions": [
+      "Gardelini33 checks",
+      "audric54460 checks"
+    ],
+    "turn": "7h",
+    "turn_actions": [
+      "Gardelini33 checks",
+      "audric54460 checks"
+    ],
+    "river": "8d",
+    "river_actions": [
+      "Gardelini33 checks",
+      "audric54460 checks"
+    ],
+    "showdown": [
+      "Gardelini33 shows [5c 9h] (One pair : 7)",
+      "audric54460 shows [9c 3c] (One pair : 7)",
+      "audric54460 collected 59 from pot",
+      "Gardelini33 collected 59 from pot"
+    ],
+    "summary": [
+      "Total pot 118 | No rake",
+      "Board: [2s 7s Th 7h 8d]",
+      "Seat 1: Gardelini33 (small blind) showed [5c 9h] and won 59 with One pair : 7",
+      "Seat 2: audric54460 (big blind) showed [9c 3c] and won 59 with One pair : 7"
+    ],
+    "pot_size": 118,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 6 - HandId: #4089717826900721702-62-1752399434 - Holdem no limit (6/25/50) - 2025/07/13 09:37:14 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #3 is the button\nSeat 1: Gardelini33 (478, 1€ bounty)\nSeat 2: audric54460 (1011, 1€ bounty)\nSeat 3: ZERO_TALENT (500, 1€ bounty)\n*** ANTE/BLINDS ***\nGardelini33 posts ante 6\naudric54460 posts ante 6\nZERO_TALENT posts ante 6\nGardelini33 posts small blind 25\naudric54460 posts big blind 50\nDealt to ZERO_TALENT [8s 5s]\n*** PRE-FLOP *** \nZERO_TALENT folds\nGardelini33 calls 25\naudric54460 checks\n*** FLOP *** [2s 7s Th]\nGardelini33 checks\naudric54460 checks\n*** TURN *** [2s 7s Th][7h]\nGardelini33 checks\naudric54460 checks\n*** RIVER *** [2s 7s Th 7h][8d]\nGardelini33 checks\naudric54460 checks\n*** SHOW DOWN ***\nGardelini33 shows [5c 9h] (One pair : 7)\naudric54460 shows [9c 3c] (One pair : 7)\naudric54460 collected 59 from pot\nGardelini33 collected 59 from pot\n*** SUMMARY ***\nTotal pot 118 | No rake\nBoard: [2s 7s Th 7h 8d]\nSeat 1: Gardelini33 (small blind) showed [5c 9h] and won 59 with One pair : 7\nSeat 2: audric54460 (big blind) showed [9c 3c] and won 59 with One pair : 7\n\n\n"
+  },
+  {
+    "id": "912a7698-3b3b-4192-87fb-63cf7cda9a95",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-63-1752399475",
+    "hand_number": 10,
+    "level": 7,
+    "blinds": "30/60",
+    "ante": 7,
+    "small_blind": 30,
+    "big_blind": 60,
+    "date": "2025-07-13T09:37:55",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 1,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 481,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 1014,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 494,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BB",
+    "hole_cards": "Jc Ts",
+    "ante_blinds_actions": [
+      "audric54460 posts ante 7",
+      "ZERO_TALENT posts ante 7",
+      "Gardelini33 posts ante 7",
+      "audric54460 posts small blind 30",
+      "ZERO_TALENT posts big blind 60"
+    ],
+    "preflop_actions": [
+      "Gardelini33 folds",
+      "audric54460 calls 30",
+      "ZERO_TALENT raises 427 to 487 and is all-in",
+      "audric54460 folds",
+      "ZERO_TALENT collected 568 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 568 | No rake",
+      "Seat 3: ZERO_TALENT (big blind) won 568"
+    ],
+    "pot_size": 568,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4089717826900721702-63-1752399475 - Holdem no limit (7/30/60) - 2025/07/13 09:37:55 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #1 is the button\nSeat 1: Gardelini33 (481, 1€ bounty)\nSeat 2: audric54460 (1014, 1€ bounty)\nSeat 3: ZERO_TALENT (494, 1€ bounty)\n*** ANTE/BLINDS ***\naudric54460 posts ante 7\nZERO_TALENT posts ante 7\nGardelini33 posts ante 7\naudric54460 posts small blind 30\nZERO_TALENT posts big blind 60\nDealt to ZERO_TALENT [Jc Ts]\n*** PRE-FLOP *** \nGardelini33 folds\naudric54460 calls 30\nZERO_TALENT raises 427 to 487 and is all-in\naudric54460 folds\nZERO_TALENT collected 568 from pot\n*** SUMMARY ***\nTotal pot 568 | No rake\nSeat 3: ZERO_TALENT (big blind) won 568\n\n\n"
+  },
+  {
+    "id": "5f87dd29-8c68-4d3d-99ae-8c17b0d6bfe4",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-64-1752399485",
+    "hand_number": 11,
+    "level": 7,
+    "blinds": "30/60",
+    "ante": 7,
+    "small_blind": 30,
+    "big_blind": 60,
+    "date": "2025-07-13T09:38:05",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 2,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 474,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 947,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 568,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "SB",
+    "hole_cards": "Qs 3d",
+    "ante_blinds_actions": [
+      "ZERO_TALENT posts ante 7",
+      "Gardelini33 posts ante 7",
+      "audric54460 posts ante 7",
+      "ZERO_TALENT posts small blind 30",
+      "Gardelini33 posts big blind 60"
+    ],
+    "preflop_actions": [
+      "audric54460 folds",
+      "ZERO_TALENT raises 501 to 561 and is all-in",
+      "Gardelini33 folds",
+      "ZERO_TALENT collected 642 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 642 | No rake",
+      "Seat 3: ZERO_TALENT (small blind) won 642"
+    ],
+    "pot_size": 642,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4089717826900721702-64-1752399485 - Holdem no limit (7/30/60) - 2025/07/13 09:38:05 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #2 is the button\nSeat 1: Gardelini33 (474, 1€ bounty)\nSeat 2: audric54460 (947, 1€ bounty)\nSeat 3: ZERO_TALENT (568, 1€ bounty)\n*** ANTE/BLINDS ***\nZERO_TALENT posts ante 7\nGardelini33 posts ante 7\naudric54460 posts ante 7\nZERO_TALENT posts small blind 30\nGardelini33 posts big blind 60\nDealt to ZERO_TALENT [Qs 3d]\n*** PRE-FLOP *** \naudric54460 folds\nZERO_TALENT raises 501 to 561 and is all-in\nGardelini33 folds\nZERO_TALENT collected 642 from pot\n*** SUMMARY ***\nTotal pot 642 | No rake\nSeat 3: ZERO_TALENT (small blind) won 642\n\n\n"
+  },
+  {
+    "id": "f8286a73-26b1-430d-9a24-fb4cf9ad3fee",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-65-1752399506",
+    "hand_number": 12,
+    "level": 7,
+    "blinds": "30/60",
+    "ante": 7,
+    "small_blind": 30,
+    "big_blind": 60,
+    "date": "2025-07-13T09:38:26",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 3,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 407,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 940,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 642,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BTN",
+    "hole_cards": "Ah 9c",
+    "ante_blinds_actions": [
+      "Gardelini33 posts ante 7",
+      "audric54460 posts ante 7",
+      "ZERO_TALENT posts ante 7",
+      "Gardelini33 posts small blind 30",
+      "audric54460 posts big blind 60"
+    ],
+    "preflop_actions": [
+      "ZERO_TALENT raises 575 to 635 and is all-in",
+      "Gardelini33 folds",
+      "audric54460 folds",
+      "ZERO_TALENT collected 746 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 746 | No rake",
+      "Seat 3: ZERO_TALENT (button) won 746"
+    ],
+    "pot_size": 746,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4089717826900721702-65-1752399506 - Holdem no limit (7/30/60) - 2025/07/13 09:38:26 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #3 is the button\nSeat 1: Gardelini33 (407, 1€ bounty)\nSeat 2: audric54460 (940, 1€ bounty)\nSeat 3: ZERO_TALENT (642, 1€ bounty)\n*** ANTE/BLINDS ***\nGardelini33 posts ante 7\naudric54460 posts ante 7\nZERO_TALENT posts ante 7\nGardelini33 posts small blind 30\naudric54460 posts big blind 60\nDealt to ZERO_TALENT [Ah 9c]\n*** PRE-FLOP *** \nZERO_TALENT raises 575 to 635 and is all-in\nGardelini33 folds\naudric54460 folds\nZERO_TALENT collected 746 from pot\n*** SUMMARY ***\nTotal pot 746 | No rake\nSeat 3: ZERO_TALENT (button) won 746\n\n\n"
+  },
+  {
+    "id": "8d241984-4b89-4ec4-ae14-07591bcdb6de",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-66-1752399512",
+    "hand_number": 13,
+    "level": 7,
+    "blinds": "30/60",
+    "ante": 7,
+    "small_blind": 30,
+    "big_blind": 60,
+    "date": "2025-07-13T09:38:32",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 1,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 370,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 873,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 746,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BB",
+    "hole_cards": "7s 9d",
+    "ante_blinds_actions": [
+      "audric54460 posts ante 7",
+      "ZERO_TALENT posts ante 7",
+      "Gardelini33 posts ante 7",
+      "audric54460 posts small blind 30",
+      "ZERO_TALENT posts big blind 60"
+    ],
+    "preflop_actions": [
+      "Gardelini33 folds",
+      "audric54460 calls 30",
+      "ZERO_TALENT checks"
+    ],
+    "flop": "Ad Ks 3c",
+    "flop_actions": [
+      "audric54460 bets 60",
+      "ZERO_TALENT folds",
+      "audric54460 collected 201 from pot"
+    ],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 201 | No rake",
+      "Board: [Ad Ks 3c]",
+      "Seat 2: audric54460 (small blind) won 201"
+    ],
+    "pot_size": 201,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4089717826900721702-66-1752399512 - Holdem no limit (7/30/60) - 2025/07/13 09:38:32 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #1 is the button\nSeat 1: Gardelini33 (370, 1€ bounty)\nSeat 2: audric54460 (873, 1€ bounty)\nSeat 3: ZERO_TALENT (746, 1€ bounty)\n*** ANTE/BLINDS ***\naudric54460 posts ante 7\nZERO_TALENT posts ante 7\nGardelini33 posts ante 7\naudric54460 posts small blind 30\nZERO_TALENT posts big blind 60\nDealt to ZERO_TALENT [7s 9d]\n*** PRE-FLOP *** \nGardelini33 folds\naudric54460 calls 30\nZERO_TALENT checks\n*** FLOP *** [Ad Ks 3c]\naudric54460 bets 60\nZERO_TALENT folds\naudric54460 collected 201 from pot\n*** SUMMARY ***\nTotal pot 201 | No rake\nBoard: [Ad Ks 3c]\nSeat 2: audric54460 (small blind) won 201\n\n\n"
+  },
+  {
+    "id": "dba384be-1217-403b-964e-c374ae1c2b7f",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-67-1752399523",
+    "hand_number": 14,
+    "level": 7,
+    "blinds": "30/60",
+    "ante": 7,
+    "small_blind": 30,
+    "big_blind": 60,
+    "date": "2025-07-13T09:38:43",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 2,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 363,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 947,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 679,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "SB",
+    "hole_cards": "Js 8d",
+    "ante_blinds_actions": [
+      "ZERO_TALENT posts ante 7",
+      "Gardelini33 posts ante 7",
+      "audric54460 posts ante 7",
+      "ZERO_TALENT posts small blind 30",
+      "Gardelini33 posts big blind 60"
+    ],
+    "preflop_actions": [
+      "audric54460 folds",
+      "ZERO_TALENT raises 612 to 672 and is all-in",
+      "Gardelini33 folds",
+      "ZERO_TALENT collected 753 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 753 | No rake",
+      "Seat 3: ZERO_TALENT (small blind) won 753"
+    ],
+    "pot_size": 753,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4089717826900721702-67-1752399523 - Holdem no limit (7/30/60) - 2025/07/13 09:38:43 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #2 is the button\nSeat 1: Gardelini33 (363, 1€ bounty)\nSeat 2: audric54460 (947, 1€ bounty)\nSeat 3: ZERO_TALENT (679, 1€ bounty)\n*** ANTE/BLINDS ***\nZERO_TALENT posts ante 7\nGardelini33 posts ante 7\naudric54460 posts ante 7\nZERO_TALENT posts small blind 30\nGardelini33 posts big blind 60\nDealt to ZERO_TALENT [Js 8d]\n*** PRE-FLOP *** \naudric54460 folds\nZERO_TALENT raises 612 to 672 and is all-in\nGardelini33 folds\nZERO_TALENT collected 753 from pot\n*** SUMMARY ***\nTotal pot 753 | No rake\nSeat 3: ZERO_TALENT (small blind) won 753\n\n\n"
+  },
+  {
+    "id": "fd6dc316-cddd-4260-a87c-7eea12370c75",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-68-1752399543",
+    "hand_number": 15,
+    "level": 7,
+    "blinds": "30/60",
+    "ante": 7,
+    "small_blind": 30,
+    "big_blind": 60,
+    "date": "2025-07-13T09:39:03",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 3,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 296,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 940,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 753,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BTN",
+    "hole_cards": "Ad 8c",
+    "ante_blinds_actions": [
+      "Gardelini33 posts ante 7",
+      "audric54460 posts ante 7",
+      "ZERO_TALENT posts ante 7",
+      "Gardelini33 posts small blind 30",
+      "audric54460 posts big blind 60"
+    ],
+    "preflop_actions": [
+      "ZERO_TALENT raises 686 to 746 and is all-in",
+      "Gardelini33 folds",
+      "audric54460 folds",
+      "ZERO_TALENT collected 857 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 857 | No rake",
+      "Seat 3: ZERO_TALENT (button) won 857"
+    ],
+    "pot_size": 857,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4089717826900721702-68-1752399543 - Holdem no limit (7/30/60) - 2025/07/13 09:39:03 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #3 is the button\nSeat 1: Gardelini33 (296, 1€ bounty)\nSeat 2: audric54460 (940, 1€ bounty)\nSeat 3: ZERO_TALENT (753, 1€ bounty)\n*** ANTE/BLINDS ***\nGardelini33 posts ante 7\naudric54460 posts ante 7\nZERO_TALENT posts ante 7\nGardelini33 posts small blind 30\naudric54460 posts big blind 60\nDealt to ZERO_TALENT [Ad 8c]\n*** PRE-FLOP *** \nZERO_TALENT raises 686 to 746 and is all-in\nGardelini33 folds\naudric54460 folds\nZERO_TALENT collected 857 from pot\n*** SUMMARY ***\nTotal pot 857 | No rake\nSeat 3: ZERO_TALENT (button) won 857\n\n\n"
+  },
+  {
+    "id": "3984a392-3623-4c23-b3f3-8282b3baa602",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-69-1752399550",
+    "hand_number": 16,
+    "level": 7,
+    "blinds": "30/60",
+    "ante": 7,
+    "small_blind": 30,
+    "big_blind": 60,
+    "date": "2025-07-13T09:39:10",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 1,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 259,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 873,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 857,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BB",
+    "hole_cards": "2h Ad",
+    "ante_blinds_actions": [
+      "audric54460 posts ante 7",
+      "ZERO_TALENT posts ante 7",
+      "Gardelini33 posts ante 7",
+      "audric54460 posts small blind 30",
+      "ZERO_TALENT posts big blind 60"
+    ],
+    "preflop_actions": [
+      "Gardelini33 folds",
+      "audric54460 raises 806 to 866 and is all-in",
+      "ZERO_TALENT folds",
+      "audric54460 collected 947 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 947 | No rake",
+      "Seat 2: audric54460 (small blind) won 947"
+    ],
+    "pot_size": 947,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4089717826900721702-69-1752399550 - Holdem no limit (7/30/60) - 2025/07/13 09:39:10 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #1 is the button\nSeat 1: Gardelini33 (259, 1€ bounty)\nSeat 2: audric54460 (873, 1€ bounty)\nSeat 3: ZERO_TALENT (857, 1€ bounty)\n*** ANTE/BLINDS ***\naudric54460 posts ante 7\nZERO_TALENT posts ante 7\nGardelini33 posts ante 7\naudric54460 posts small blind 30\nZERO_TALENT posts big blind 60\nDealt to ZERO_TALENT [2h Ad]\n*** PRE-FLOP *** \nGardelini33 folds\naudric54460 raises 806 to 866 and is all-in\nZERO_TALENT folds\naudric54460 collected 947 from pot\n*** SUMMARY ***\nTotal pot 947 | No rake\nSeat 2: audric54460 (small blind) won 947\n\n\n"
+  },
+  {
+    "id": "16906a00-251d-46f4-ab5e-15983acdd90e",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-70-1752399559",
+    "hand_number": 17,
+    "level": 7,
+    "blinds": "30/60",
+    "ante": 7,
+    "small_blind": 30,
+    "big_blind": 60,
+    "date": "2025-07-13T09:39:19",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 2,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 252,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 947,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 790,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "SB",
+    "hole_cards": "9h 2c",
+    "ante_blinds_actions": [
+      "ZERO_TALENT posts ante 7",
+      "Gardelini33 posts ante 7",
+      "audric54460 posts ante 7",
+      "ZERO_TALENT posts small blind 30",
+      "Gardelini33 posts big blind 60"
+    ],
+    "preflop_actions": [
+      "audric54460 folds",
+      "ZERO_TALENT folds",
+      "Gardelini33 collected 111 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 111 | No rake",
+      "Seat 1: Gardelini33 (big blind) won 111"
+    ],
+    "pot_size": 111,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4089717826900721702-70-1752399559 - Holdem no limit (7/30/60) - 2025/07/13 09:39:19 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #2 is the button\nSeat 1: Gardelini33 (252, 1€ bounty)\nSeat 2: audric54460 (947, 1€ bounty)\nSeat 3: ZERO_TALENT (790, 1€ bounty)\n*** ANTE/BLINDS ***\nZERO_TALENT posts ante 7\nGardelini33 posts ante 7\naudric54460 posts ante 7\nZERO_TALENT posts small blind 30\nGardelini33 posts big blind 60\nDealt to ZERO_TALENT [9h 2c]\n*** PRE-FLOP *** \naudric54460 folds\nZERO_TALENT folds\nGardelini33 collected 111 from pot\n*** SUMMARY ***\nTotal pot 111 | No rake\nSeat 1: Gardelini33 (big blind) won 111\n\n\n"
+  },
+  {
+    "id": "5d7e0e68-45d7-4aab-a497-760622725723",
+    "tournament_id": "5a77ed70-825e-41ef-80e7-b9167a4729cb",
+    "hand_id": "4089717826900721702-71-1752399565",
+    "hand_number": 18,
+    "level": 7,
+    "blinds": "30/60",
+    "ante": 7,
+    "small_blind": 30,
+    "big_blind": 60,
+    "date": "2025-07-13T09:39:25",
+    "table_name": "TRIDENT SPACE KO(952211634)#0037",
+    "max_players": 3,
+    "button_seat": 3,
+    "players": [
+      {
+        "name": "Gardelini33",
+        "seat": 1,
+        "stack": 296,
+        "bounty": 1.0
+      },
+      {
+        "name": "audric54460",
+        "seat": 2,
+        "stack": 940,
+        "bounty": 1.0
+      },
+      {
+        "name": "ZERO_TALENT",
+        "seat": 3,
+        "stack": 753,
+        "bounty": 1.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BTN",
+    "hole_cards": "9s Ah",
+    "ante_blinds_actions": [
+      "Gardelini33 posts ante 7",
+      "audric54460 posts ante 7",
+      "ZERO_TALENT posts ante 7",
+      "Gardelini33 posts small blind 30",
+      "audric54460 posts big blind 60"
+    ],
+    "preflop_actions": [
+      "ZERO_TALENT raises 686 to 746 and is all-in",
+      "Gardelini33 folds",
+      "audric54460 calls 686"
+    ],
+    "flop": "Kh 3s 2d",
+    "flop_actions": [],
+    "turn": "6c",
+    "turn_actions": [],
+    "river": "Td",
+    "river_actions": [],
+    "showdown": [
+      "ZERO_TALENT shows [9s Ah] (High card : Ace)",
+      "audric54460 shows [6s 6d] (Trips of 6)",
+      "audric54460 collected 1543 from pot"
+    ],
+    "summary": [
+      "Total pot 1543 | No rake",
+      "Board: [Kh 3s 2d 6c Td]",
+      "Seat 2: audric54460 (big blind) showed [6s 6d] and won 1543 with Trips of 6",
+      "Seat 3: ZERO_TALENT (button) showed [9s Ah] and lost with High card : Ace"
+    ],
+    "pot_size": 1543,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"TRIDENT SPACE KO\" buyIn: 1.80€ + 0.20€ level: 7 - HandId: #4089717826900721702-71-1752399565 - Holdem no limit (7/30/60) - 2025/07/13 09:39:25 UTC\nTable: 'TRIDENT SPACE KO(952211634)#0037' 3-max (real money) Seat #3 is the button\nSeat 1: Gardelini33 (296, 1€ bounty)\nSeat 2: audric54460 (940, 1€ bounty)\nSeat 3: ZERO_TALENT (753, 1€ bounty)\n*** ANTE/BLINDS ***\nGardelini33 posts ante 7\naudric54460 posts ante 7\nZERO_TALENT posts ante 7\nGardelini33 posts small blind 30\naudric54460 posts big blind 60\nDealt to ZERO_TALENT [9s Ah]\n*** PRE-FLOP *** \nZERO_TALENT raises 686 to 746 and is all-in\nGardelini33 folds\naudric54460 calls 686\n*** FLOP *** [Kh 3s 2d]\n*** TURN *** [Kh 3s 2d][6c]\n*** RIVER *** [Kh 3s 2d 6c][Td]\n*** SHOW DOWN ***\nZERO_TALENT shows [9s Ah] (High card : Ace)\naudric54460 shows [6s 6d] (Trips of 6)\naudric54460 collected 1543 from pot\n*** SUMMARY ***\nTotal pot 1543 | No rake\nBoard: [Kh 3s 2d 6c Td]\nSeat 2: audric54460 (big blind) showed [6s 6d] and won 1543 with Trips of 6\nSeat 3: ZERO_TALENT (button) showed [9s Ah] and lost with High card : Ace\n\n\n"
+  },
+  {
+    "id": "66987816-e9ba-4cfb-a0f4-2bacb9aba9d1",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-44-1752356479",
+    "hand_number": 2,
+    "level": 10,
+    "blinds": "500/1000",
+    "ante": 120,
+    "small_blind": 500,
+    "big_blind": 1000,
+    "date": "2025-07-12T21:41:19",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 2,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 20000,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 35391,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 57279,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 38195,
+        "bounty": 0.0
+      },
+      {
+        "name": "PornFish",
+        "seat": 6,
+        "stack": 28140,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "MP",
+    "hole_cards": "9h Jd",
+    "ante_blinds_actions": [
+      "Rico1733 posts ante 120",
+      "la marginale posts ante 120",
+      "ZERO_TALENT posts ante 120",
+      "Aurk posts ante 120",
+      "Juandepedro posts ante 120",
+      "PornFish posts ante 120",
+      "Rico1733 posts small blind 500",
+      "la marginale posts big blind 1000"
+    ],
+    "preflop_actions": [
+      "Juandepedro raises 1000 to 2000",
+      "PornFish folds",
+      "ZERO_TALENT folds",
+      "Aurk folds",
+      "Rico1733 folds",
+      "la marginale folds",
+      "Juandepedro collected 4220 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 4220 | No rake",
+      "Seat 5: Juandepedro won 4220"
+    ],
+    "pot_size": 4220,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #4087833985525219342-44-1752356479 - Holdem no limit (120/500/1000) - 2025/07/12 21:41:19 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #2 is the button\nSeat 1: ZERO_TALENT (20000)\nSeat 2: Aurk (35391)\nSeat 3: Rico1733 (57279)\nSeat 4: la marginale (45965)\nSeat 5: Juandepedro (38195)\nSeat 6: PornFish (28140)\n*** ANTE/BLINDS ***\nRico1733 posts ante 120\nla marginale posts ante 120\nZERO_TALENT posts ante 120\nAurk posts ante 120\nJuandepedro posts ante 120\nPornFish posts ante 120\nRico1733 posts small blind 500\nla marginale posts big blind 1000\nDealt to ZERO_TALENT [9h Jd]\n*** PRE-FLOP *** \nJuandepedro raises 1000 to 2000\nPornFish folds\nZERO_TALENT folds\nAurk folds\nRico1733 folds\nla marginale folds\nJuandepedro collected 4220 from pot\n*** SUMMARY ***\nTotal pot 4220 | No rake\nSeat 5: Juandepedro won 4220\n\n\n"
+  },
+  {
+    "id": "5d002089-4a52-44e9-9e5e-31669f97d1eb",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-45-1752356500",
+    "hand_number": 3,
+    "level": 10,
+    "blinds": "500/1000",
+    "ante": 120,
+    "small_blind": 500,
+    "big_blind": 1000,
+    "date": "2025-07-12T21:41:40",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 3,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 19880,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 35271,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 56659,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 40295,
+        "bounty": 0.0
+      },
+      {
+        "name": "PornFish",
+        "seat": 6,
+        "stack": 28020,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "UTG",
+    "hole_cards": "Ac Jd",
+    "ante_blinds_actions": [
+      "la marginale posts ante 120",
+      "Juandepedro posts ante 120",
+      "ZERO_TALENT posts ante 120",
+      "Aurk posts ante 120",
+      "Rico1733 posts ante 120",
+      "PornFish posts ante 120",
+      "la marginale posts small blind 500",
+      "Juandepedro posts big blind 1000"
+    ],
+    "preflop_actions": [
+      "PornFish raises 1000 to 2000",
+      "ZERO_TALENT raises 5000 to 7000",
+      "Aurk folds",
+      "Rico1733 folds",
+      "la marginale folds",
+      "Juandepedro folds",
+      "PornFish raises 20900 to 27900 and is all-in",
+      "ZERO_TALENT calls 12760 and is all-in"
+    ],
+    "flop": "3c 8d Ah",
+    "flop_actions": [],
+    "turn": "4h",
+    "turn_actions": [],
+    "river": "As",
+    "river_actions": [],
+    "showdown": [
+      "ZERO_TALENT shows [Ac Jd] (Trips of Aces)",
+      "PornFish shows [Tc Td] (Two pairs : Aces and Tens)",
+      "PornFish collected 8140 from side pot 1",
+      "ZERO_TALENT collected 41740 from main pot"
+    ],
+    "summary": [
+      "Total pot 49880 | No rake",
+      "Board: [3c 8d Ah 4h As]",
+      "Seat 1: ZERO_TALENT showed [Ac Jd] and won 41740 with Trips of Aces",
+      "Seat 6: PornFish showed [Tc Td] and won 8140 with Two pairs : Aces and Tens"
+    ],
+    "pot_size": 49880,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 10 - HandId: #4087833985525219342-45-1752356500 - Holdem no limit (120/500/1000) - 2025/07/12 21:41:40 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #3 is the button\nSeat 1: ZERO_TALENT (19880)\nSeat 2: Aurk (35271)\nSeat 3: Rico1733 (56659)\nSeat 4: la marginale (44845)\nSeat 5: Juandepedro (40295)\nSeat 6: PornFish (28020)\n*** ANTE/BLINDS ***\nla marginale posts ante 120\nJuandepedro posts ante 120\nZERO_TALENT posts ante 120\nAurk posts ante 120\nRico1733 posts ante 120\nPornFish posts ante 120\nla marginale posts small blind 500\nJuandepedro posts big blind 1000\nDealt to ZERO_TALENT [Ac Jd]\n*** PRE-FLOP *** \nPornFish raises 1000 to 2000\nZERO_TALENT raises 5000 to 7000\nAurk folds\nRico1733 folds\nla marginale folds\nJuandepedro folds\nPornFish raises 20900 to 27900 and is all-in\nZERO_TALENT calls 12760 and is all-in\n*** FLOP *** [3c 8d Ah]\n*** TURN *** [3c 8d Ah][4h]\n*** RIVER *** [3c 8d Ah 4h][As]\n*** SHOW DOWN ***\nZERO_TALENT shows [Ac Jd] (Trips of Aces)\nPornFish shows [Tc Td] (Two pairs : Aces and Tens)\nPornFish collected 8140 from side pot 1\nZERO_TALENT collected 41740 from main pot\n*** SUMMARY ***\nTotal pot 49880 | No rake\nBoard: [3c 8d Ah 4h As]\nSeat 1: ZERO_TALENT showed [Ac Jd] and won 41740 with Trips of Aces\nSeat 6: PornFish showed [Tc Td] and won 8140 with Two pairs : Aces and Tens\n\n\n"
+  },
+  {
+    "id": "d7f1d6c6-a8f1-42a1-851f-9be535163ca3",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-46-1752356548",
+    "hand_number": 4,
+    "level": 11,
+    "blinds": "600/1200",
+    "ante": 140,
+    "small_blind": 600,
+    "big_blind": 1200,
+    "date": "2025-07-12T21:42:28",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 4,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 41740,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 35151,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 56539,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 39175,
+        "bounty": 0.0
+      },
+      {
+        "name": "PornFish",
+        "seat": 6,
+        "stack": 8140,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "Seat 1",
+    "hole_cards": "8h Js",
+    "ante_blinds_actions": [
+      "Juandepedro posts ante 140",
+      "PornFish posts ante 140",
+      "ZERO_TALENT posts ante 140",
+      "Aurk posts ante 140",
+      "Rico1733 posts ante 140",
+      "la marginale posts ante 140",
+      "Juandepedro posts small blind 600",
+      "PornFish posts big blind 1200"
+    ],
+    "preflop_actions": [
+      "ZERO_TALENT folds",
+      "Aurk folds",
+      "Rico1733 folds",
+      "la marginale calls 1200",
+      "Juandepedro calls 600",
+      "PornFish raises 6800 to 8000 and is all-in",
+      "la marginale folds",
+      "Juandepedro folds",
+      "PornFish collected 11240 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 11240 | No rake",
+      "Seat 6: PornFish (big blind) won 11240"
+    ],
+    "pot_size": 11240,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4087833985525219342-46-1752356548 - Holdem no limit (140/600/1200) - 2025/07/12 21:42:28 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #4 is the button\nSeat 1: ZERO_TALENT (41740)\nSeat 2: Aurk (35151)\nSeat 3: Rico1733 (56539)\nSeat 4: la marginale (44225)\nSeat 5: Juandepedro (39175)\nSeat 6: PornFish (8140)\n*** ANTE/BLINDS ***\nJuandepedro posts ante 140\nPornFish posts ante 140\nZERO_TALENT posts ante 140\nAurk posts ante 140\nRico1733 posts ante 140\nla marginale posts ante 140\nJuandepedro posts small blind 600\nPornFish posts big blind 1200\nDealt to ZERO_TALENT [8h Js]\n*** PRE-FLOP *** \nZERO_TALENT folds\nAurk folds\nRico1733 folds\nla marginale calls 1200\nJuandepedro calls 600\nPornFish raises 6800 to 8000 and is all-in\nla marginale folds\nJuandepedro folds\nPornFish collected 11240 from pot\n*** SUMMARY ***\nTotal pot 11240 | No rake\nSeat 6: PornFish (big blind) won 11240\n\n\n"
+  },
+  {
+    "id": "542be968-d036-4c23-8ab1-c4288d979628",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-47-1752356599",
+    "hand_number": 5,
+    "level": 11,
+    "blinds": "600/1200",
+    "ante": 140,
+    "small_blind": 600,
+    "big_blind": 1200,
+    "date": "2025-07-12T21:43:19",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 5,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 41600,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 35011,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 56399,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 37835,
+        "bounty": 0.0
+      },
+      {
+        "name": "PornFish",
+        "seat": 6,
+        "stack": 11240,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BB",
+    "hole_cards": "2d 9d",
+    "ante_blinds_actions": [
+      "PornFish posts ante 140",
+      "ZERO_TALENT posts ante 140",
+      "Aurk posts ante 140",
+      "Rico1733 posts ante 140",
+      "la marginale posts ante 140",
+      "Juandepedro posts ante 140",
+      "PornFish posts small blind 600",
+      "ZERO_TALENT posts big blind 1200"
+    ],
+    "preflop_actions": [
+      "Aurk folds",
+      "Rico1733 folds",
+      "la marginale calls 1200",
+      "Juandepedro calls 1200",
+      "PornFish raises 9900 to 11100 and is all-in",
+      "ZERO_TALENT folds",
+      "la marginale folds",
+      "Juandepedro folds",
+      "PornFish collected 15540 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 15540 | No rake",
+      "Seat 6: PornFish (small blind) won 15540"
+    ],
+    "pot_size": 15540,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4087833985525219342-47-1752356599 - Holdem no limit (140/600/1200) - 2025/07/12 21:43:19 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #5 is the button\nSeat 1: ZERO_TALENT (41600)\nSeat 2: Aurk (35011)\nSeat 3: Rico1733 (56399)\nSeat 4: la marginale (42885)\nSeat 5: Juandepedro (37835)\nSeat 6: PornFish (11240)\n*** ANTE/BLINDS ***\nPornFish posts ante 140\nZERO_TALENT posts ante 140\nAurk posts ante 140\nRico1733 posts ante 140\nla marginale posts ante 140\nJuandepedro posts ante 140\nPornFish posts small blind 600\nZERO_TALENT posts big blind 1200\nDealt to ZERO_TALENT [2d 9d]\n*** PRE-FLOP *** \nAurk folds\nRico1733 folds\nla marginale calls 1200\nJuandepedro calls 1200\nPornFish raises 9900 to 11100 and is all-in\nZERO_TALENT folds\nla marginale folds\nJuandepedro folds\nPornFish collected 15540 from pot\n*** SUMMARY ***\nTotal pot 15540 | No rake\nSeat 6: PornFish (small blind) won 15540\n\n\n"
+  },
+  {
+    "id": "66357724-ece2-4598-b1fd-0fc64219a9b9",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-48-1752356621",
+    "hand_number": 6,
+    "level": 11,
+    "blinds": "600/1200",
+    "ante": 140,
+    "small_blind": 600,
+    "big_blind": 1200,
+    "date": "2025-07-12T21:43:41",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 6,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 40260,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 34871,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 56259,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 36495,
+        "bounty": 0.0
+      },
+      {
+        "name": "PornFish",
+        "seat": 6,
+        "stack": 15540,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "SB",
+    "hole_cards": "8d 2c",
+    "ante_blinds_actions": [
+      "ZERO_TALENT posts ante 140",
+      "Aurk posts ante 140",
+      "Rico1733 posts ante 140",
+      "la marginale posts ante 140",
+      "Juandepedro posts ante 140",
+      "PornFish posts ante 140",
+      "ZERO_TALENT posts small blind 600",
+      "Aurk posts big blind 1200"
+    ],
+    "preflop_actions": [
+      "Rico1733 folds",
+      "la marginale raises 40205 to 41405 and is all-in",
+      "Juandepedro calls 36355 and is all-in",
+      "PornFish folds",
+      "ZERO_TALENT folds",
+      "Aurk folds"
+    ],
+    "flop": "4c 2s Jc",
+    "flop_actions": [],
+    "turn": "7h",
+    "turn_actions": [],
+    "river": "5d",
+    "river_actions": [],
+    "showdown": [
+      "la marginale shows [8s 9d] (High card : Jack)",
+      "Juandepedro shows [Ah Qd] (High card : Ace)",
+      "Juandepedro collected 75350 from main pot",
+      "la marginale collected 5050 from side pot 1"
+    ],
+    "summary": [
+      "Total pot 80400 | No rake",
+      "Board: [4c 2s Jc 7h 5d]",
+      "Seat 4: la marginale showed [8s 9d] and won 5050 with High card : Jack",
+      "Seat 5: Juandepedro showed [Ah Qd] and won 75350 with High card : Ace"
+    ],
+    "pot_size": 80400,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4087833985525219342-48-1752356621 - Holdem no limit (140/600/1200) - 2025/07/12 21:43:41 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #6 is the button\nSeat 1: ZERO_TALENT (40260)\nSeat 2: Aurk (34871)\nSeat 3: Rico1733 (56259)\nSeat 4: la marginale (41545)\nSeat 5: Juandepedro (36495)\nSeat 6: PornFish (15540)\n*** ANTE/BLINDS ***\nZERO_TALENT posts ante 140\nAurk posts ante 140\nRico1733 posts ante 140\nla marginale posts ante 140\nJuandepedro posts ante 140\nPornFish posts ante 140\nZERO_TALENT posts small blind 600\nAurk posts big blind 1200\nDealt to ZERO_TALENT [8d 2c]\n*** PRE-FLOP *** \nRico1733 folds\nla marginale raises 40205 to 41405 and is all-in\nJuandepedro calls 36355 and is all-in\nPornFish folds\nZERO_TALENT folds\nAurk folds\n*** FLOP *** [4c 2s Jc]\n*** TURN *** [4c 2s Jc][7h]\n*** RIVER *** [4c 2s Jc 7h][5d]\n*** SHOW DOWN ***\nla marginale shows [8s 9d] (High card : Jack)\nJuandepedro shows [Ah Qd] (High card : Ace)\nJuandepedro collected 75350 from main pot\nla marginale collected 5050 from side pot 1\n*** SUMMARY ***\nTotal pot 80400 | No rake\nBoard: [4c 2s Jc 7h 5d]\nSeat 4: la marginale showed [8s 9d] and won 5050 with High card : Jack\nSeat 5: Juandepedro showed [Ah Qd] and won 75350 with High card : Ace\n\n\n"
+  },
+  {
+    "id": "81f3246d-09c3-4d3e-a6e1-3e38afb6ee0f",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-49-1752356642",
+    "hand_number": 7,
+    "level": 11,
+    "blinds": "600/1200",
+    "ante": 140,
+    "small_blind": 600,
+    "big_blind": 1200,
+    "date": "2025-07-12T21:44:02",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 1,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 39520,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 33531,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 56119,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 75350,
+        "bounty": 0.0
+      },
+      {
+        "name": "PornFish",
+        "seat": 6,
+        "stack": 15400,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BTN",
+    "hole_cards": "7h Qh",
+    "ante_blinds_actions": [
+      "Aurk posts ante 140",
+      "Rico1733 posts ante 140",
+      "ZERO_TALENT posts ante 140",
+      "la marginale posts ante 140",
+      "Juandepedro posts ante 140",
+      "PornFish posts ante 140",
+      "Aurk posts small blind 600",
+      "Rico1733 posts big blind 1200"
+    ],
+    "preflop_actions": [
+      "la marginale folds",
+      "Juandepedro calls 1200",
+      "PornFish raises 14060 to 15260 and is all-in",
+      "ZERO_TALENT folds",
+      "Aurk folds",
+      "Rico1733 folds",
+      "Juandepedro calls 14060"
+    ],
+    "flop": "6h 4h 8h",
+    "flop_actions": [],
+    "turn": "Jd",
+    "turn_actions": [],
+    "river": "4c",
+    "river_actions": [],
+    "showdown": [
+      "PornFish shows [3d 3h] (Two pairs : 4 and 3)",
+      "Juandepedro shows [As Jh] (Two pairs : Jacks and 4)",
+      "Juandepedro collected 33160 from pot"
+    ],
+    "summary": [
+      "Total pot 33160 | No rake",
+      "Board: [6h 4h 8h Jd 4c]",
+      "Seat 5: Juandepedro showed [As Jh] and won 33160 with Two pairs : Jacks and 4",
+      "Seat 6: PornFish showed [3d 3h] and lost with Two pairs : 4 and 3"
+    ],
+    "pot_size": 33160,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4087833985525219342-49-1752356642 - Holdem no limit (140/600/1200) - 2025/07/12 21:44:02 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #1 is the button\nSeat 1: ZERO_TALENT (39520)\nSeat 2: Aurk (33531)\nSeat 3: Rico1733 (56119)\nSeat 4: la marginale (5050)\nSeat 5: Juandepedro (75350)\nSeat 6: PornFish (15400)\n*** ANTE/BLINDS ***\nAurk posts ante 140\nRico1733 posts ante 140\nZERO_TALENT posts ante 140\nla marginale posts ante 140\nJuandepedro posts ante 140\nPornFish posts ante 140\nAurk posts small blind 600\nRico1733 posts big blind 1200\nDealt to ZERO_TALENT [7h Qh]\n*** PRE-FLOP *** \nla marginale folds\nJuandepedro calls 1200\nPornFish raises 14060 to 15260 and is all-in\nZERO_TALENT folds\nAurk folds\nRico1733 folds\nJuandepedro calls 14060\n*** FLOP *** [6h 4h 8h]\n*** TURN *** [6h 4h 8h][Jd]\n*** RIVER *** [6h 4h 8h Jd][4c]\n*** SHOW DOWN ***\nPornFish shows [3d 3h] (Two pairs : 4 and 3)\nJuandepedro shows [As Jh] (Two pairs : Jacks and 4)\nJuandepedro collected 33160 from pot\n*** SUMMARY ***\nTotal pot 33160 | No rake\nBoard: [6h 4h 8h Jd 4c]\nSeat 5: Juandepedro showed [As Jh] and won 33160 with Two pairs : Jacks and 4\nSeat 6: PornFish showed [3d 3h] and lost with Two pairs : 4 and 3\n\n\n"
+  },
+  {
+    "id": "17a59ceb-6bf3-4ca7-aab3-d1ec3e6d58cd",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-50-1752356679",
+    "hand_number": 8,
+    "level": 11,
+    "blinds": "600/1200",
+    "ante": 140,
+    "small_blind": 600,
+    "big_blind": 1200,
+    "date": "2025-07-12T21:44:39",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 2,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 39380,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 32791,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 54779,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 93110,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "UTG",
+    "hole_cards": "7d Ts",
+    "ante_blinds_actions": [
+      "Rico1733 posts ante 140",
+      "la marginale posts ante 140",
+      "ZERO_TALENT posts ante 140",
+      "Aurk posts ante 140",
+      "Juandepedro posts ante 140",
+      "Rico1733 posts small blind 600",
+      "la marginale posts big blind 1200"
+    ],
+    "preflop_actions": [
+      "Juandepedro raises 1200 to 2400",
+      "ZERO_TALENT folds",
+      "Aurk folds",
+      "Rico1733 folds",
+      "la marginale raises 2370 to 4770 and is all-in",
+      "Juandepedro calls 2370"
+    ],
+    "flop": "5h 4d Kc",
+    "flop_actions": [],
+    "turn": "Tc",
+    "turn_actions": [],
+    "river": "3c",
+    "river_actions": [],
+    "showdown": [
+      "Juandepedro shows [As Td] (One pair : Tens)",
+      "la marginale shows [7c 4c] (Flush King high)",
+      "la marginale collected 10840 from pot"
+    ],
+    "summary": [
+      "Total pot 10840 | No rake",
+      "Board: [5h 4d Kc Tc 3c]",
+      "Seat 4: la marginale (big blind) showed [7c 4c] and won 10840 with Flush King high",
+      "Seat 5: Juandepedro showed [As Td] and lost with One pair : Tens"
+    ],
+    "pot_size": 10840,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 11 - HandId: #4087833985525219342-50-1752356679 - Holdem no limit (140/600/1200) - 2025/07/12 21:44:39 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #2 is the button\nSeat 1: ZERO_TALENT (39380)\nSeat 2: Aurk (32791)\nSeat 3: Rico1733 (54779)\nSeat 4: la marginale (4910)\nSeat 5: Juandepedro (93110)\n*** ANTE/BLINDS ***\nRico1733 posts ante 140\nla marginale posts ante 140\nZERO_TALENT posts ante 140\nAurk posts ante 140\nJuandepedro posts ante 140\nRico1733 posts small blind 600\nla marginale posts big blind 1200\nDealt to ZERO_TALENT [7d Ts]\n*** PRE-FLOP *** \nJuandepedro raises 1200 to 2400\nZERO_TALENT folds\nAurk folds\nRico1733 folds\nla marginale raises 2370 to 4770 and is all-in\nJuandepedro calls 2370\n*** FLOP *** [5h 4d Kc]\n*** TURN *** [5h 4d Kc][Tc]\n*** RIVER *** [5h 4d Kc Tc][3c]\n*** SHOW DOWN ***\nJuandepedro shows [As Td] (One pair : Tens)\nla marginale shows [7c 4c] (Flush King high)\nla marginale collected 10840 from pot\n*** SUMMARY ***\nTotal pot 10840 | No rake\nBoard: [5h 4d Kc Tc 3c]\nSeat 4: la marginale (big blind) showed [7c 4c] and won 10840 with Flush King high\nSeat 5: Juandepedro showed [As Td] and lost with One pair : Tens\n\n\n"
+  },
+  {
+    "id": "d83c37ff-82b1-47a4-ad55-4468676a09bd",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-51-1752356704",
+    "hand_number": 9,
+    "level": 12,
+    "blinds": "700/1400",
+    "ante": 160,
+    "small_blind": 700,
+    "big_blind": 1400,
+    "date": "2025-07-12T21:45:04",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 3,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 39240,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 32651,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 54039,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 88200,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BB",
+    "hole_cards": "3h Qh",
+    "ante_blinds_actions": [
+      "la marginale posts ante 160",
+      "Juandepedro posts ante 160",
+      "ZERO_TALENT posts ante 160",
+      "Aurk posts ante 160",
+      "Rico1733 posts ante 160",
+      "la marginale posts small blind 700",
+      "Juandepedro posts big blind 1400"
+    ],
+    "preflop_actions": [
+      "ZERO_TALENT folds",
+      "Aurk folds",
+      "Rico1733 folds",
+      "la marginale raises 9280 to 10680 and is all-in",
+      "Juandepedro calls 9280"
+    ],
+    "flop": "Qc 2h 8d",
+    "flop_actions": [],
+    "turn": "Js",
+    "turn_actions": [],
+    "river": "Ah",
+    "river_actions": [],
+    "showdown": [
+      "Juandepedro shows [Ad 3d] (One pair : Aces)",
+      "la marginale shows [8c 8h] (Trips of 8)",
+      "la marginale collected 22160 from pot"
+    ],
+    "summary": [
+      "Total pot 22160 | No rake",
+      "Board: [Qc 2h 8d Js Ah]",
+      "Seat 4: la marginale (small blind) showed [8c 8h] and won 22160 with Trips of 8",
+      "Seat 5: Juandepedro (big blind) showed [Ad 3d] and lost with One pair : Aces"
+    ],
+    "pot_size": 22160,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #4087833985525219342-51-1752356704 - Holdem no limit (160/700/1400) - 2025/07/12 21:45:04 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #3 is the button\nSeat 1: ZERO_TALENT (39240)\nSeat 2: Aurk (32651)\nSeat 3: Rico1733 (54039)\nSeat 4: la marginale (10840)\nSeat 5: Juandepedro (88200)\n*** ANTE/BLINDS ***\nla marginale posts ante 160\nJuandepedro posts ante 160\nZERO_TALENT posts ante 160\nAurk posts ante 160\nRico1733 posts ante 160\nla marginale posts small blind 700\nJuandepedro posts big blind 1400\nDealt to ZERO_TALENT [3h Qh]\n*** PRE-FLOP *** \nZERO_TALENT folds\nAurk folds\nRico1733 folds\nla marginale raises 9280 to 10680 and is all-in\nJuandepedro calls 9280\n*** FLOP *** [Qc 2h 8d]\n*** TURN *** [Qc 2h 8d][Js]\n*** RIVER *** [Qc 2h 8d Js][Ah]\n*** SHOW DOWN ***\nJuandepedro shows [Ad 3d] (One pair : Aces)\nla marginale shows [8c 8h] (Trips of 8)\nla marginale collected 22160 from pot\n*** SUMMARY ***\nTotal pot 22160 | No rake\nBoard: [Qc 2h 8d Js Ah]\nSeat 4: la marginale (small blind) showed [8c 8h] and won 22160 with Trips of 8\nSeat 5: Juandepedro (big blind) showed [Ad 3d] and lost with One pair : Aces\n\n\n"
+  },
+  {
+    "id": "2836be9a-0a0d-45bb-b4ab-513e68b363c4",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-52-1752356723",
+    "hand_number": 10,
+    "level": 12,
+    "blinds": "700/1400",
+    "ante": 160,
+    "small_blind": 700,
+    "big_blind": 1400,
+    "date": "2025-07-12T21:45:23",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 4,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 39080,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 32491,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 53879,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 77360,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "Seat 1",
+    "hole_cards": "4d 9c",
+    "ante_blinds_actions": [
+      "Juandepedro posts ante 160",
+      "ZERO_TALENT posts ante 160",
+      "Aurk posts ante 160",
+      "Rico1733 posts ante 160",
+      "la marginale posts ante 160",
+      "Juandepedro posts small blind 700",
+      "ZERO_TALENT posts big blind 1400"
+    ],
+    "preflop_actions": [
+      "Aurk folds",
+      "Rico1733 folds",
+      "la marginale raises 20600 to 22000 and is all-in",
+      "Juandepedro calls 21300",
+      "ZERO_TALENT folds"
+    ],
+    "flop": "2s Kc 7c",
+    "flop_actions": [],
+    "turn": "Ah",
+    "turn_actions": [],
+    "river": "6h",
+    "river_actions": [],
+    "showdown": [
+      "la marginale shows [Qc Qs] (One pair : Queens)",
+      "Juandepedro shows [Tc As] (One pair : Aces)",
+      "Juandepedro collected 46200 from pot"
+    ],
+    "summary": [
+      "Total pot 46200 | No rake",
+      "Board: [2s Kc 7c Ah 6h]",
+      "Seat 4: la marginale (button) showed [Qc Qs] and lost with One pair : Queens",
+      "Seat 5: Juandepedro (small blind) showed [Tc As] and won 46200 with One pair : Aces"
+    ],
+    "pot_size": 46200,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #4087833985525219342-52-1752356723 - Holdem no limit (160/700/1400) - 2025/07/12 21:45:23 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #4 is the button\nSeat 1: ZERO_TALENT (39080)\nSeat 2: Aurk (32491)\nSeat 3: Rico1733 (53879)\nSeat 4: la marginale (22160)\nSeat 5: Juandepedro (77360)\n*** ANTE/BLINDS ***\nJuandepedro posts ante 160\nZERO_TALENT posts ante 160\nAurk posts ante 160\nRico1733 posts ante 160\nla marginale posts ante 160\nJuandepedro posts small blind 700\nZERO_TALENT posts big blind 1400\nDealt to ZERO_TALENT [4d 9c]\n*** PRE-FLOP *** \nAurk folds\nRico1733 folds\nla marginale raises 20600 to 22000 and is all-in\nJuandepedro calls 21300\nZERO_TALENT folds\n*** FLOP *** [2s Kc 7c]\n*** TURN *** [2s Kc 7c][Ah]\n*** RIVER *** [2s Kc 7c Ah][6h]\n*** SHOW DOWN ***\nla marginale shows [Qc Qs] (One pair : Queens)\nJuandepedro shows [Tc As] (One pair : Aces)\nJuandepedro collected 46200 from pot\n*** SUMMARY ***\nTotal pot 46200 | No rake\nBoard: [2s Kc 7c Ah 6h]\nSeat 4: la marginale (button) showed [Qc Qs] and lost with One pair : Queens\nSeat 5: Juandepedro (small blind) showed [Tc As] and won 46200 with One pair : Aces\n\n\n"
+  },
+  {
+    "id": "68903561-aec8-43a9-bb55-3b6e1da77422",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-53-1752356744",
+    "hand_number": 11,
+    "level": 12,
+    "blinds": "700/1400",
+    "ante": 160,
+    "small_blind": 700,
+    "big_blind": 1400,
+    "date": "2025-07-12T21:45:44",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 5,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 37520,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 32331,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 53719,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 101400,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "SB",
+    "hole_cards": "6s 9h",
+    "ante_blinds_actions": [
+      "ZERO_TALENT posts ante 160",
+      "Aurk posts ante 160",
+      "Rico1733 posts ante 160",
+      "Juandepedro posts ante 160",
+      "ZERO_TALENT posts small blind 700",
+      "Aurk posts big blind 1400"
+    ],
+    "preflop_actions": [
+      "Rico1733 folds",
+      "Juandepedro folds",
+      "ZERO_TALENT folds",
+      "Aurk collected 2740 from pot"
+    ],
+    "flop": null,
+    "flop_actions": [],
+    "turn": null,
+    "turn_actions": [],
+    "river": null,
+    "river_actions": [],
+    "showdown": [],
+    "summary": [
+      "Total pot 2740 | No rake",
+      "Seat 2: Aurk (big blind) won 2740"
+    ],
+    "pot_size": 2740,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #4087833985525219342-53-1752356744 - Holdem no limit (160/700/1400) - 2025/07/12 21:45:44 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #5 is the button\nSeat 1: ZERO_TALENT (37520)\nSeat 2: Aurk (32331)\nSeat 3: Rico1733 (53719)\nSeat 5: Juandepedro (101400)\n*** ANTE/BLINDS ***\nZERO_TALENT posts ante 160\nAurk posts ante 160\nRico1733 posts ante 160\nJuandepedro posts ante 160\nZERO_TALENT posts small blind 700\nAurk posts big blind 1400\nDealt to ZERO_TALENT [6s 9h]\n*** PRE-FLOP *** \nRico1733 folds\nJuandepedro folds\nZERO_TALENT folds\nAurk collected 2740 from pot\n*** SUMMARY ***\nTotal pot 2740 | No rake\nSeat 2: Aurk (big blind) won 2740\n\n\n"
+  },
+  {
+    "id": "ae82911d-8d59-4768-8fb5-23294582c89d",
+    "tournament_id": "1238154e-5933-4f01-b37e-ec282ac2a164",
+    "hand_id": "4087833985525219342-54-1752356770",
+    "hand_number": 12,
+    "level": 12,
+    "blinds": "700/1400",
+    "ante": 160,
+    "small_blind": 700,
+    "big_blind": 1400,
+    "date": "2025-07-12T21:46:10",
+    "table_name": "MYSTERY KO(951773018)#0013",
+    "max_players": 6,
+    "button_seat": 1,
+    "players": [
+      {
+        "name": "ZERO_TALENT",
+        "seat": 1,
+        "stack": 36660,
+        "bounty": 0.0
+      },
+      {
+        "name": "Aurk",
+        "seat": 2,
+        "stack": 33511,
+        "bounty": 0.0
+      },
+      {
+        "name": "Rico1733",
+        "seat": 3,
+        "stack": 53559,
+        "bounty": 0.0
+      },
+      {
+        "name": "Vegeta13",
+        "seat": 4,
+        "stack": 49987,
+        "bounty": 0.0
+      },
+      {
+        "name": "Juandepedro",
+        "seat": 5,
+        "stack": 101240,
+        "bounty": 0.0
+      },
+      {
+        "name": "OpeN-enDeD1",
+        "seat": 6,
+        "stack": 28162,
+        "bounty": 0.0
+      }
+    ],
+    "hero_name": "ZERO_TALENT",
+    "hero_position": "BTN",
+    "hole_cards": "Ac Qh",
+    "ante_blinds_actions": [
+      "Aurk posts ante 160",
+      "Rico1733 posts ante 160",
+      "ZERO_TALENT posts ante 160",
+      "Vegeta13 posts ante 160",
+      "Juandepedro posts ante 160",
+      "OpeN-enDeD1 posts ante 160",
+      "Aurk posts small blind 700",
+      "Rico1733 posts big blind 1400"
+    ],
+    "preflop_actions": [
+      "Vegeta13 folds",
+      "Juandepedro folds",
+      "OpeN-enDeD1 folds",
+      "ZERO_TALENT raises 2800 to 4200",
+      "Aurk folds",
+      "Rico1733 raises 49199 to 53399 and is all-in",
+      "ZERO_TALENT calls 32300 and is all-in"
+    ],
+    "flop": "Jd 6s 7c",
+    "flop_actions": [],
+    "turn": "Kd",
+    "turn_actions": [],
+    "river": "3c",
+    "river_actions": [],
+    "showdown": [
+      "ZERO_TALENT shows [Ac Qh] (High card : Ace)",
+      "Rico1733 shows [Js Ah] (One pair : Jacks)",
+      "Rico1733 collected 91559 from pot"
+    ],
+    "summary": [
+      "Total pot 91559 | No rake",
+      "Board: [Jd 6s 7c Kd 3c]",
+      "Seat 1: ZERO_TALENT (button) showed [Ac Qh] and lost with High card : Ace",
+      "Seat 3: Rico1733 (big blind) showed [Js Ah] and won 91559 with One pair : Jacks"
+    ],
+    "pot_size": 91559,
+    "rake": 0,
+    "raw_text": "Winamax Poker - Tournament \"MYSTERY KO\" buyIn: 1.80€ + 0.20€ level: 12 - HandId: #4087833985525219342-54-1752356770 - Holdem no limit (160/700/1400) - 2025/07/12 21:46:10 UTC\nTable: 'MYSTERY KO(951773018)#0013' 6-max (real money) Seat #1 is the button\nSeat 1: ZERO_TALENT (36660)\nSeat 2: Aurk (33511)\nSeat 3: Rico1733 (53559)\nSeat 4: Vegeta13 (49987)\nSeat 5: Juandepedro (101240)\nSeat 6: OpeN-enDeD1 (28162)\n*** ANTE/BLINDS ***\nAurk posts ante 160\nRico1733 posts ante 160\nZERO_TALENT posts ante 160\nVegeta13 posts ante 160\nJuandepedro posts ante 160\nOpeN-enDeD1 posts ante 160\nAurk posts small blind 700\nRico1733 posts big blind 1400\nDealt to ZERO_TALENT [Ac Qh]\n*** PRE-FLOP *** \nVegeta13 folds\nJuandepedro folds\nOpeN-enDeD1 folds\nZERO_TALENT raises 2800 to 4200\nAurk folds\nRico1733 raises 49199 to 53399 and is all-in\nZERO_TALENT calls 32300 and is all-in\n*** FLOP *** [Jd 6s 7c]\n*** TURN *** [Jd 6s 7c][Kd]\n*** RIVER *** [Jd 6s 7c Kd][3c]\n*** SHOW DOWN ***\nZERO_TALENT shows [Ac Qh] (High card : Ace)\nRico1733 shows [Js Ah] (One pair : Jacks)\nRico1733 collected 91559 from pot\n*** SUMMARY ***\nTotal pot 91559 | No rake\nBoard: [Jd 6s 7c Kd 3c]\nSeat 1: ZERO_TALENT (button) showed [Ac Qh] and lost with High card : Ace\nSeat 3: Rico1733 (big blind) showed [Js Ah] and won 91559 with One pair : Jacks\n\n\n"
+  }
+]
